@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.params=
+comment0.target=PlayingCard()
+comment0.text=\n\ Constructors\ for\ objects\ of\ class\ Card\n
+comment1.params=s\ v
+comment1.target=PlayingCard(int,\ int)
+comment2.params=s
+comment2.target=void\ setSuit(int)
+comment2.text=\n\ Set\ method\ for\ the\ suit\ number.\ \ Initializes\ the\ String\ mySuitName.\n\ \n\ @param\ int\ s,\ 1\=clubs;\ 2\=spades;\ 3\=hearts;\ 4\=diamonds\n
+comment3.params=v
+comment3.target=void\ setValue(int)
+comment3.text=\n\ Set\ method\ for\ the\ card\ value\ number.\ \ Initializes\ the\ String\ myValueName.\n\ \n\ @param\ int\ v,\ 2\=duce;\ 3\=three;\ .\ .\ .\ 13\=king;\ 14\=ace\n
+comment4.params=
+comment4.target=int\ getSuit()
+comment4.text=\n\ Get\ method\ for\ the\ suit\ number.\n\ \n\ @param\ int\ s,\ 1\=clubs;\ 2\=spades;\ 3\=hearts;\ 4\=diamonds\n
+comment5.params=
+comment5.target=int\ getValue()
+comment5.text=\n\ Get\ method\ for\ the\ card\ value\ number.\n\ \n\ @return\ int\ myValueNum,\ 2\=duce;\ 3\=three.\ .\ .\ 13\=king;\ 14\=ace\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\n\ Returns\ description\ of\ card.\n\ \n\ @return\ String\ myFace\n
+comment7.params=
+comment7.target=boolean\ isValid()
+comment7.text=\n\ Returns\ boolean\ indicating\ if\ the\ card\ has\ been\ properly\ initialized.\n\ \n\ @return\ Boolean\ validCard\n
+comment8.params=
+comment8.target=void\ buildFace()
+numComments=9

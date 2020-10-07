@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=CardDealer
+comment1.params=
+comment1.target=CardDealer()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ CardDeck.\r\n
+comment2.params=
+comment2.target=void\ newDeck()
+comment2.text=\r\n\ Creates\ a\ new\ 'deck'\ of\ card\ objects.\r\n
+comment3.params=
+comment3.target=void\ shuffleDeck()
+comment3.text=\r\n\ Performs\ a\ 'bunch'\ of\ random\ swaps\ to\ 'shuffle'\ the\ deck.\r\n\ You\ may\ use\ another\ 'shuffling'\ implementation.\r\n
+comment4.params=cards
+comment4.target=java.lang.String\ dealCards(int)
+comment4.text=\r\n\ Creates\ a\ String\ representation\ of\ the\ specified\ number\ of\ cards\r\n\ from\ the\ deck\ and\ updates\ myNumCardsDealt.\r\n\ \r\n\ @param\ \ cards\ \ \ the\ number\ of\ cards\ to\ be\ 'dealt'\ from\ the\ 'deck'\r\n\ @return\ \ \ \ \ \ a\ String\ representation\ of\ the\ specified\ number\ of\ cards\r\n
+comment5.params=
+comment5.target=java.lang.String\ dealAllCards()
+comment5.text=\r\n\ Creates\ a\ String\ representation\ of\ the\ remaining\ 'undealt'\ cards\r\n\ from\ the\ deck\ and\ updates\ myNumCardsDealt\r\n\ \r\n\ @return\ \ \ \ \ \ a\ String\ representation\ of\ the\ remaining\ cards\r\n
+numComments=6
